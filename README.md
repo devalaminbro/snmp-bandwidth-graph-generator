@@ -37,7 +37,7 @@ python3 traffic_poller.py
 
 ⚠️ Requirements
 Python 3.6+
-
 Access to UDP Port 161 on the target device.
+
 Author: Sheikh Alamin Santo
 Cloud Infrastructure Specialist & Network Engineer
